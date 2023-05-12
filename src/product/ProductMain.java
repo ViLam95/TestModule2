@@ -48,7 +48,7 @@ public class ProductMain {
                     productManage.writeFileCSV();
                     break;
                 case 9:
-
+                    productManage.readFileCSV();
                     break;
                 case 0:
                     System.exit(0);
